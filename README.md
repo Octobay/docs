@@ -8,7 +8,7 @@ For now this repository is just a collection of things worth writing down.
 
 # Overview
 
-OctoBay is a decentralized bounty platform, with governance and promotional features, using the following technologies:
+OctoBay is a decentralized bounty platform with promotional features, using the following technologies:
 
 - Smart Contract and Token
 - Chainlink Oracles
@@ -19,7 +19,7 @@ OctoBay is a decentralized bounty platform, with governance and promotional feat
 
 ## Main Use Case
 
-![image](https://user-images.githubusercontent.com/6792578/107627018-f3539980-6c5e-11eb-8d6c-ab42c19f0f87.png)
+![image](https://user-images.githubusercontent.com/6792578/107638409-d6739200-6c6f-11eb-9833-ff94dedb57bc.png)
 
 Funds are deposited in the smart contract for an issue on GitHub. Once the issue is closed, the author/contributor can request a withdrawal on which the Chainlink oracles check if the required conditions are met.
 
