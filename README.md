@@ -16,8 +16,9 @@ OctoBay is a decentralized bounty platform with promotional features, using the 
 - Uniswap
 - Gas Station Network
 
-
 ## Main Use Case
+
+### Bounty
 
 ![image](https://user-images.githubusercontent.com/6792578/107638409-d6739200-6c6f-11eb-9833-ff94dedb57bc.png)
 
