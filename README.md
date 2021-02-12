@@ -1,12 +1,9 @@
 # Docs
 
-Documentation for the OctoBay project
-
-For now this repository is just a collection of things worth writing down.
-
+0. [Overview](#Overview)
 1. [Registration](https://octobay.github.io/docs/REGISTRATION.html)
 
-# Overview
+## Overview
 
 OctoBay is a decentralized bounty and promotion platform for open source projects, using the following technologies:
 
@@ -16,9 +13,9 @@ OctoBay is a decentralized bounty and promotion platform for open source project
 - Uniswap
 - Gas Station Network
 
-## Main Use Cases
+### Main Use Cases
 
-### Bounty
+#### Bounty
 
 Funds are deposited in the smart contract for an issue on GitHub. Once the issue is closed, the author/contributor can request a withdrawal on which the Chainlink oracles check if the required conditions are met.
 
@@ -32,7 +29,7 @@ Possible conditions:
 
 OctoBay integrates Uniswap, to enable withdrawals in any currency, regardless of the deposits.
 
-### Tipping/Inviting
+#### Tipping/Inviting
 
 Any Ethereum account can send funds to any GitHub user. If the user is new to OctoBay, one of our oracles will send an email invitation or mention the user on GitHub (and Twitter, if available). The user creates a wallet and can withdraw the deposit via a gasless meta transaction, that is prepaid by the deposit and handled by our Gas Station Network relayer.
 
