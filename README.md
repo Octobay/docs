@@ -32,7 +32,7 @@ Possible conditions:
 
 ### Tipping/Inviting
 
-Any Ethereum account can send funds to any GitHub user. If the user is new to OctoBay, one of our oracles will send an email invitation or mention the user on GitHub and Twitter, if no public email address is available. The user creates an Ethereum account and can withdraw the deposit via a gasless meta transaction, that is prepaid by the deposit and handled by our Gas Station Network relayer.
+Any Ethereum account can send funds to any GitHub user. If the user is new to OctoBay, one of our oracles will send an email invitation or mention the user on GitHub (and Twitter, if available). The user creates a wallet and can withdraw the deposit via a gasless meta transaction, that is prepaid by the deposit and handled by our Gas Station Network relayer.
 
 ![image](https://user-images.githubusercontent.com/6792578/107778410-5539ff00-6d44-11eb-95a6-c3d652c180c0.png)
 
