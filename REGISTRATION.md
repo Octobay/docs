@@ -11,7 +11,7 @@ The user sends a transaction (pays gas) and pays the oracle by sending the fee i
 
 ## Prepaid (Gasless)
 
-The user signs a transaction and forwardeds it to a GSN relayer that sends (pays gas for) the transaction. The oracle fee as well as the GSN paymaster expenses are covered by an existing deposit in the OctoBay contract. Required oracle jobs will have an effective fee of 0 LINK but will be payed on fulfillment.
+The user signs a transaction and sends it to our GSN relayer. The relayer performs the same checks as the oracle and forwards (pays gas for) the transaction only on success. The oracle fee, as well as the GSN paymaster expenses, are covered by the existing deposit.
 
 ### User Deposit
 
