@@ -34,6 +34,6 @@ Possible conditions:
 
 Any Ethereum account can send funds to any GitHub user. If the user is new to OctoBay, one of our oracles will send an email invitation or mention the user on GitHub (and Twitter, if available). The user creates a wallet and can withdraw the deposit via a gasless meta transaction, that is prepaid by the deposit and handled by our Gas Station Network relayer.
 
-![image](https://user-images.githubusercontent.com/6792578/107780305-ce3a5600-6d46-11eb-9212-38b22be6d1b1.png)
+![image](https://user-images.githubusercontent.com/6792578/107783457-903f3100-6d4a-11eb-8ad2-87f680a8424b.png)
 
 This process also works for issue bounties or repository funds. Those can also be accessed via gasless transactions for new users.
