@@ -8,7 +8,7 @@ For now this repository is just a collection of things worth writing down.
 
 # Overview
 
-OctoBay is a decentralized bounty platform with promotional features, using the following technologies:
+OctoBay is a decentralized bounty and promotion platform for open source projects, using the following technologies:
 
 - Smart Contract and Token
 - Chainlink Oracles
