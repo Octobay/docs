@@ -36,4 +36,4 @@ Any Ethereum account can send funds to any GitHub user. If the user is new to Oc
 
 ![image](https://user-images.githubusercontent.com/6792578/107783457-903f3100-6d4a-11eb-8ad2-87f680a8424b.png)
 
-This process also works for issue bounties or repository funds. Those can also be accessed via gasless transactions for new users.
+This process also works for issue bounties or repository funds. Those can also be accessed via gasless transactions for new users. User that already registered their GitHub account on OctoBay, can receive funds directly in their Ethereum wallet.
