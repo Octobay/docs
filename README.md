@@ -1,7 +1,8 @@
 # Docs
 
 0. [Overview](#Overview)
-1. [Registration](https://octobay.github.io/docs/REGISTRATION.html)
+1. [Roadmap](https://octobay.github.io/docs/ROADMAP.html)
+2. [Registration](https://octobay.github.io/docs/REGISTRATION.html)
 
 ## Overview
 
