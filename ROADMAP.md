@@ -16,6 +16,7 @@
 
 - review and consolidate
 - improve overall code structure/quality
+  - https://github.com/OctoBay/contracts/issues/2
 - improve test coverage
 - improve documentation
 - fix The Graph implementation (Oracle entity)
@@ -31,6 +32,8 @@
 - Contracts:
   - More refactoring for better overall structure
   - Implement missing features
+    - Automatic swap to LINK for oracle payments
+    - Sending to repositories
   - Prepare token functionality
 - Gas Station Network:
   - Add support for gasless transactions for all first withdrawals
