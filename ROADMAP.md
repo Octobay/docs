@@ -35,6 +35,7 @@
     - Automatic swap to LINK for oracle payments
     - Sending to repositories
   - Prepare token functionality
+- GitHub bot
 - Gas Station Network:
   - Add support for gasless transactions for all first withdrawals
   - Run and integrate own relayer
