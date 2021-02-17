@@ -1,6 +1,6 @@
 0. [Overview](#Overview)
-1. [Roadmap](ROADMAP.html)
-2. [Registration](REGISTRATION.html)
+1. [Roadmap](ROADMAP.md)
+2. [Registration](REGISTRATION.md)
 
 ## Overview
 
