@@ -1,7 +1,3 @@
----
-title: Docs Test Title
----
-
 # Docs
 
 0. [Overview](#Overview)
