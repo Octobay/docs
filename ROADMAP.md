@@ -16,7 +16,7 @@
 
 - review and consolidate
 - improve overall code structure/quality
-  - https://github.com/OctoBay/contracts/issues/2
+  - [contracts/issues/2](https://github.com/OctoBay/contracts/issues/2)
 - improve test coverage
 - improve documentation
 - fix The Graph implementation (Oracle entity)
