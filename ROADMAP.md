@@ -37,6 +37,7 @@
   - Prepare token functionality
 - GitHub bot
 - Gas Station Network:
+  - Set up relay server
   - Add support for gasless transactions for all first withdrawals
   - Run and integrate own relayer
 
