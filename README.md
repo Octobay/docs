@@ -28,6 +28,10 @@ Possible conditions:
 
 OctoBay integrates Uniswap, to enable withdrawals in any currency, regardless of the deposits.
 
+##### Gasless Withdrawal
+
+![image](https://user-images.githubusercontent.com/6792578/108446664-c4d94e00-725e-11eb-902a-50836a10bcad.png)
+
 #### Tipping/Inviting
 
 Any Ethereum account can send funds to any GitHub user. If the user is new to OctoBay, one of our oracles will send an email invitation or mention the user on GitHub (and Twitter, if available). The user creates a wallet and can withdraw the deposit via a gasless meta transaction, that is prepaid by the deposit and handled by our Gas Station Network relayer.
