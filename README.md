@@ -1,6 +1,7 @@
 0. [Overview](#Overview)
 1. [Roadmap](ROADMAP.md)
 2. [Registration](REGISTRATION.md)
+3. [Withdrawal](WITHDRAWAL.md)
 
 ## Overview
 
@@ -27,10 +28,6 @@ Possible conditions:
 - The maintainer comments on the issue in the form: `@OctoBay release to @user`. (Overrides previous conditions.)
 
 OctoBay integrates Uniswap, to enable withdrawals in any currency, regardless of the deposits.
-
-##### Gasless Withdrawal
-
-![image](https://user-images.githubusercontent.com/6792578/108446664-c4d94e00-725e-11eb-902a-50836a10bcad.png)
 
 #### Tipping/Inviting
 
