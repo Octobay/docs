@@ -2,6 +2,7 @@
 1. [Roadmap](ROADMAP.md)
 2. [Registration](REGISTRATION.md)
 3. [Withdrawal](WITHDRAWAL.md)
+4. [Governance](GOVERNANCE.md)
 
 ## Overview
 
