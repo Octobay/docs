@@ -12,6 +12,6 @@ The Octobay token gets minted for all bounties. An organization's token gets onl
 
 Governance tokens can be used to flag misbehaving actors or to claim the privilege on a bounty and organizations might set up bounties exclusive for their token holders.
 
-Promotions for bounties, projects or users (job search) through Octobay's social media accounts are also payed in Octobay governance tokens. An organization's governance token gives a discount on promotions for their bounties or projects. The tokens are completely burned.
+Promotions for bounties, projects or users (job search) through Octobay's social media accounts are also payed in Octobay governance tokens. An organization's governance token gives a discount on promotions for their bounties or projects. All tokens are burned when used for promotions.
 
 Governance tokens can also be used to vote for proposals for Octobay or another organization. Proposals are GitHub issues, that do not have a bounty attached. As long as the issue is not closed, token holders can deposit any amount of tokens, to improve the proposal's ranking. Once the organization creates a bounty for that issue, it is deemed accepted and the governance token deposits will be distributed to the proposal author and partially burned.
