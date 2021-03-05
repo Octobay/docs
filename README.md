@@ -1,39 +1,47 @@
-0. [Overview](#Overview)
-1. [Roadmap](ROADMAP.md)
-2. [Registration](REGISTRATION.md)
-3. [Withdrawal](WITHDRAWAL.md)
-4. [Governance](GOVERNANCE.md)
+0. [Motivation](#Motivation)
+1. [Technical Overview](OVERVIEW.md)
+2. [Roadmap](ROADMAP.md)
+3. [Registration](REGISTRATION.md)
+4. [Withdrawal](WITHDRAWAL.md)
+5. [Governance](GOVERNANCE.md)
 
-## Overview
+# Motivation
 
-OctoBay is a decentralized bounty and promotion platform for open source projects, using the following technologies:
+In the area of bounty-based open-source funding, we see a number of problems and a lot of room for improvements.
 
-- Smart Contract and Token
-- Chainlink Oracles
-- The Graph
-- Uniswap
-- Gas Station Network
+## 1. Discoverability and Promotion
 
-### Main Use Cases
+### Problem:
 
-#### Bounty
+Current bounty platforms are "isolated". If you don't know them already, you'll never hear about their bounties. As a developer you need to keep an eye on a confusingly large number of individual solutions with different mechanics and entry barriers, while projects struggle to reach out to developers in an efficient way. Effective promotion is a cruicial factor other plaftforms lack.
 
-Funds are deposited in the smart contract for an issue on GitHub. Once the issue is closed, the author/contributor can request a withdrawal on which the Chainlink oracles check if the required conditions are met.
+### Solution:
 
-![image](https://user-images.githubusercontent.com/6792578/107638409-d6739200-6c6f-11eb-9833-ff94dedb57bc.png)
+Octobay builds on heavy social media integration and incentivizing a network of influencers to promote bounties, by monetizing the visibility they can provide on different platforms.
+Projects in the Octobay ecosystem are also interconnected based on their dependencies to each other, inviting developers to not only help their favorite projects but also those other projects that it relies on, increasing the network effect.
 
-Possible conditions:
+## 2. Trust and Delays:
 
-- A pull request got **merged into the default branch**, closing the issue **automatically**. (Default behavior if not specified otherwise by the maintainer of the issue's repository.)
-- A pull request, mentioning the issue (in its description or a commit message ) with a close command (e.g. `closes #12`), got merged into a branch specified by the maintainer and the issue is closed.
-- The maintainer comments on the issue in the form: `@OctoBay release to @user`. (Overrides previous conditions.)
+### Problem:
 
-OctoBay integrates Uniswap, to enable withdrawals in any currency, regardless of the deposits.
+Current platforms require manual action to release bounties. Contributors are waiting unnecessarily to receive their payment and maintainers have additional work.
 
-#### Tipping/Inviting
+Contributors are also taking the risk of providing working code, that a project might then simply copy and implement, without actually paying the contributor but cancelling the bounty instead.
 
-Any Ethereum account can send funds to any GitHub user. If the user is new to OctoBay, one of our oracles will send an email invitation or mention the user on GitHub (and Twitter, if available). The user creates a wallet and can withdraw the deposit via a gasless meta transaction, that is prepaid by the deposit and handled by our Gas Station Network relayer.
+### Solution:
 
-![image](https://user-images.githubusercontent.com/6792578/107783457-903f3100-6d4a-11eb-8ad2-87f680a8424b.png)
+Octobay automates the process, whereever possible, in favor of the contributor. If not specified otherwise by the project, the contributor will be able to withdraw funds as soon as the work done is merged into the project. No additional manual process is required.
 
-This process also works for issue bounties or repository funds. Those can also be accessed via gasless transactions for new users. User that already registered their GitHub account on OctoBay, can receive funds directly in their Ethereum wallet.
+Also, in order to place bounties with a higher trust-level, projects can stake funds on the Octobay platform, as a form of collateral. In any case of conflict, managed by our internal governance system, projects can get slashed for misbehaviour. An automated plagiarism-check provides additional indication for missbehaviour.
+
+While established projects already have the neccesary trust, this way also new projects can show their commitment.
+
+## 3. User Interface and Experience
+
+### Problem:
+
+Other platforms don't hold up with modern standards of user experience. It's of significant importantance, to be efficient with the user's cognitive bandwidth and lower the entry barrier. We feel that many bounty platforms (as well as many other apps) are made "for developers, by developers" and that's the problem. Technical experts should not be responsible for the user experience design.
+
+### Solution:
+
+Octobay works with experienced UX design experts and focuses on simplicity and easy of use, while providing "everything you need and nothing you don't". Our current prototype already makes a huge difference in these terms, compared to other platforms, and impressively demonstrates how "less is more".
