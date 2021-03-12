@@ -4,7 +4,7 @@ The Octobay Governance Platform is designed to incentivize contributors and to i
 
 # Tokens
 
-Octobay has as global governance token and can also launches new ones for individual GitHub organizations on demand.
+Octobay has as global governance token and can also launch new ones for individual GitHub organizations on demand.
 
 All governance tokens have an open supply and are brought into existance only through completed bounties. The value of a bounty decides how many governance tokens will be minted.
 
