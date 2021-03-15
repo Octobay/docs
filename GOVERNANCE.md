@@ -2,7 +2,7 @@
 
 The Octobay Governance Platform is designed to incentivize contributors and to involve them more in a project's success. While other governance models are mostly buy-in models or rely on manual distribution, on Octobay token distribution is strictly tied to the work on a project's bounties and their value.
 
-Projects can launch one or more governance tokens, e.g. one for technical and one for business decisions. All governance tokens have an open supply, are non-transferable and purely for the purpose of decision making. When launching a new governance token, it can either be bound to an individual repository or an entire organisation, affecting all its repositories.
+Projects can launch one or more governance tokens, e.g. one for security considerations and one for more general decisions. All governance tokens have an open supply, are non-transferable and purely for the purpose of decision making. When launching a new governance token, it can either be bound to an individual repository or an entire organisation, affecting all its repositories.
 
 Projects can also set up bounties exclusively for their token holders.
 
