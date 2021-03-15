@@ -9,3 +9,5 @@ Projects can also set up bounties exclusively for their token holders.
 ## Proposals
 
 A repository's [Discussions](https://docs.github.com/en/discussions) board on GitHub is the place where communication with the entire community happens. From there, discussions can be transformed into proposals on the Octobay platform, where only token holders can vote. Once a proposal reaches it's required quorum, it can be transformed into an issue on GitHub with a bounty attached.
+
+![image](https://user-images.githubusercontent.com/6792578/111153747-9a935b80-8592-11eb-81da-d9c8a418cf5d.png)
