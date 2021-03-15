@@ -1,17 +1,11 @@
-# Governance (Draft)
+# Governance
 
-The Octobay Governance Platform is designed to incentivize contributors and to involve them more in a project's progress.
+The Octobay Governance Platform is designed to incentivize contributors and to involve them more in a project's success. While other governance models are mostly buy-in models or rely on manual distribution, on Octobay token distribution is strictly tied to the work on a project's bounties and their value.
 
-# Tokens
+Projects can launch one or more governance tokens, e.g. one for technical and one for business decisions. All governance tokens have an open supply, are non-transferable and purely for the purpose of decision making. When launching a new governance token, it can either be bound to an individual repository or an entire organisation, affecting all its repositories.
 
-Octobay has as global governance token and can also launch new ones for individual GitHub organizations on demand.
+Projects can also set up bounties exclusively for their token holders.
 
-All governance tokens have an open supply and are brought into existance only through completed bounties. The value of a bounty decides how many governance tokens will be minted.
+## Proposals
 
-The Octobay token gets minted for all bounties. An organization's token gets only minted for bounties of that organization. Minted tokens are distributed to the contributor who worked on the bounty, the organization and Octobay.
-
-Governance tokens can be used to flag misbehaving actors or to claim the privilege on a bounty and organizations might set up bounties exclusive for their token holders.
-
-Promotions for bounties, projects or users (job search) through Octobay's social media accounts are also payed in Octobay governance tokens. An organization's governance token gives a discount on promotions for their bounties or projects. All tokens are burned when used for promotions.
-
-Governance tokens can also be used to vote for proposals for Octobay or another organization. Proposals are GitHub issues, that do not have a bounty attached. As long as the issue is not closed, token holders can deposit any amount of tokens, to improve the proposal's ranking. Once the organization creates a bounty for that issue, it is deemed accepted and the governance token deposits will be distributed to the proposal author and partially burned.
+A repository's [Discussions](https://docs.github.com/en/discussions) board on GitHub is the place where communication with the entire community happens. From there, discussions can be transformed into proposals on the Octobay platform, where only token holders can vote. Once a proposal reaches it's required quorum, it can be transformed into an issue on GitHub with a bounty attached.
