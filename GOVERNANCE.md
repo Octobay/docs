@@ -8,6 +8,6 @@ Projects can also set up bounties exclusively for their token holders.
 
 ## Proposals
 
-A repository's [Discussions](https://docs.github.com/en/discussions) board on GitHub is the place where communication with the entire community happens. From there, discussions can be transformed into proposals on the Octobay platform, where only token holders can vote. Once a proposal reaches it's required quorum, it can be transformed into an issue on GitHub with a bounty attached.
+A repository's [Discussions](https://docs.github.com/en/discussions) board on GitHub is the place where communication with the entire community happens. From there, discussions can be transformed into proposals on the Octobay platform, where only token holders can vote. Once a proposal reaches it's required quorum, it can be transformed into an issue on GitHub with a bounty attached. If a bounty was agreed on in the proposal (following a certain format convention), it will be automatically created as a Bounty Promise on Octobay. As soon as an actual deposit was made, the Bounty Promise becomes a Smart Bounty.
 
 ![image](https://user-images.githubusercontent.com/6792578/111153747-9a935b80-8592-11eb-81da-d9c8a418cf5d.png)
