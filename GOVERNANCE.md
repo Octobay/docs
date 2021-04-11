@@ -12,6 +12,12 @@ A repository's [Discussions](https://docs.github.com/en/discussions) board on Gi
 
 ![image](https://user-images.githubusercontent.com/6792578/111153747-9a935b80-8592-11eb-81da-d9c8a418cf5d.png)
 
+## Permission NFTs
+
+When a governance token is created for a project, the creator is given a special 'owner NFT' which gives them certain permissions for controlling the governance of the project. For example, the NFT allows them to create proposals for the project without them requiring a certain share of governance tokens.
+
+This 'owner NFT' then allows the owner to mint new NFTs for the project to give to others. The creator can control the permissions on the newly minted NFTs i.e. Is it transferable? Can they themselves mint new NFTs?
+
 ## Future Token Usecases
 
 - Dividend Distribution
