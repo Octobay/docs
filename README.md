@@ -1,3 +1,5 @@
+# Deprecated: This content moved to the [App Wiki](https://github.com/Octobay/app/wiki)
+
 0. [Motivation](#Motivation)
 1. [Technical Overview](OVERVIEW.md)
 2. [Roadmap](ROADMAP.md)
